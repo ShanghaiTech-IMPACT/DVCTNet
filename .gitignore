@@ -1,6 +1,6 @@
 /.quarto/
 index.qmd
-styles.css
+/styles.css
 /figs/
 /.vscode/
 _quarto.yml
