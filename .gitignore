@@ -1,0 +1,16 @@
+/.quarto/
+index.qmd
+styles.css
+/figs/
+/.vscode/
+_quarto.yml
+/mmdet_custom/datasets/__pycache__/
+/mmdet_custom/models/__pycache__/
+/mmdet_custom/engines/__pycache__/
+mmdet_custom/datasets/transforms/__pycache__
+mmdet_custom/engines/hooks/__pycache__
+mmdet_custom/models/backbones/__pycache__
+mmdet_custom/models/detectors/__pycache__
+mmdet_custom/models/necks/__pycache__
+mmdet_custom/models/roi_heads/__pycache__
+mmdet_custom/models/roi_heads/roi_extractors/__pycache__

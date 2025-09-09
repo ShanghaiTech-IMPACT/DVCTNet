@@ -1,0 +1,23 @@
+# Base dependencies
+numpy==1.26.3
+opencv-python
+albumentations
+wandb
+future
+tensorboard
+
+# PyTorch dependencies
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.1.0
+torchvision==0.16.0
+torchaudio==2.1.0
+timm==0.4.12
+pycocotools==2.0.8
+
+# OpenMMLab dependencies
+mmengine==0.10.7
+mmdet==3.3.0
+
+# Special installation for mmcv-full
+--extra-index-url https://download.openmmlab.com/mmcv/dist/cu118/torch2.1/index.html
+mmcv==2.1.0

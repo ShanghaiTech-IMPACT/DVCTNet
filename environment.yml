@@ -1,0 +1,24 @@
+name: DVCTNet
+channels:
+  - openmmlab
+  - conda-forge
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.9
+  - pytorch=2.1
+  - torchvision
+  - pytorch-cuda=11.8
+  - mmcv=2.1.0
+  - pip
+  - pip:
+      - numpy==1.26.3
+      - mmengine
+      - mmdet
+      - opencv-python
+      - future
+      - tensorboard
+      - albumentations
+      - wandb
+      - timm==0.4.12
