@@ -1,7 +1,6 @@
 /.quarto/
 index.qmd
 /styles.css
-# /figs/
 /.vscode/
 _quarto.yml
 /mmdet_custom/datasets/__pycache__/
