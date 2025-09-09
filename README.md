@@ -1,7 +1,7 @@
 # DVCTNet
 [MICCAI 2025] Adapting Foundation Model for Dental Caries Detection with Dual-View Co-Training
 
-by Tao Luo \*, [Han Wu](https://hanwu.website/)\*, Tong Yang, [Dingggang Shen](https://idea.bme.shanghaitech.edu.cn/), and [Zhiming Cui](https://shanghaitech-impact.github.io/)<sup>+</sup>
+by Tao Luo \*, [Han Wu](https://hanwu.website/)\*, Tong Yang, [Dinggang Shen](https://idea.bme.shanghaitech.edu.cn/), and [Zhiming Cui](https://shanghaitech-impact.github.io/)<sup>+</sup>
 
 [[Paper](https://arxiv.org/abs/2508.20813)]   [[Project Page](https://shanghaitech-impact.github.io/DVCTNet/)]
 
