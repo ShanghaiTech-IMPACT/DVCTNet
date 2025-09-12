@@ -65,7 +65,7 @@ To learn more about the configuration files and training and testing process, pl
 
 ## Dataset
 
-★ Our dataset is available for reserach purpose only. To apply for DVCT dataset, please refer to the dataset website of IMPACT Lab and fill out the form and send the signed e-copy to Han Wu (email: luotao2024@shanghaitech.edu.cn) and Dr. Zhiming Cui (email: cuizhm@shanghaitech.edu.cn) as well as CC your advisor as mentioned in Sec.5 of the form. We will send you the dataset link and password when recieving the data registration form.
+★ Our dataset is available for reserach purpose only. To apply for DVCT dataset, please refer to the dataset website of IMPACT Lab and fill out the form and send the signed e-copy to Tao Luo (email: luotao2024@shanghaitech.edu.cn) and Dr. Zhiming Cui (email: cuizhm@shanghaitech.edu.cn) as well as CC your advisor as mentioned in Sec.5 of the form. We will send you the dataset link and password when recieving the data registration form.
 
 
 ## Citation
