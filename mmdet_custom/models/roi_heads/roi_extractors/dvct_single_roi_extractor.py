@@ -138,7 +138,7 @@ class DVCTSingleRoIExtractor(SingleRoIExtractor):
             q2, _ = self.fusion(query=f2, key=f1, value=f1)
             return roi_feats + self._make_feats(q1, H, W) + self._make_feats(q2, H, W)
 
-        if self.fusion_method == "gate_last":
+        if self.fusion_method == "gate":
             q1, _ = self.fusion(query=f1, key=f2, value=f2)
             q2, _ = self.fusion(query=f2, key=f1, value=f1)
             f1_new = self._make_feats(q1, H, W)

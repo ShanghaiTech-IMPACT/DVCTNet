@@ -110,7 +110,7 @@ model = dict(
             drop_path_rate=0.4,
         ),
         bbox_roi_extractor=dict(
-            type='DVCTSingleRoIExtractor',fusion="gate_last",
+            type='DVCTSingleRoIExtractor',fusion="gate",
             roi_layer=dict(type='RoIAlign', output_size=7, sampling_ratio=0),
             out_channels=768,
             featmap_strides=[4, 8, 16, 32]),
