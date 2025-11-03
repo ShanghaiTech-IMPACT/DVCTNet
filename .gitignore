@@ -14,3 +14,4 @@ mmdet_custom/models/necks/__pycache__
 mmdet_custom/models/roi_heads/__pycache__
 mmdet_custom/models/roi_heads/roi_extractors/__pycache__
 .gitignore
+figs/MICCAI2025-Poster-Template.pptx
